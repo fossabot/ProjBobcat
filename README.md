@@ -12,6 +12,7 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/corona-studio/projbobcat?logo=github&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/corona-studio/projbobcat?logo=github&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/corona-studio/projbobcat?logo=github&style=for-the-badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fac682%2FProjBobcat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fac682%2FProjBobcat?ref=badge_shield)
 
 The next-generation Minecraft launcher core written in C# providing the freest, fastest and the most complete experience.
 
@@ -219,6 +220,9 @@ var result = await Core.LaunchTaskAsync(launchSettings).ConfigureAwait(true); //
 
 ## License
 MIT. This means that you can modify or use our code for any purpose, however copyright notice and permission notice shall be included in all copies or substantial portions of your software.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fac682%2FProjBobcat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fac682%2FProjBobcat?ref=badge_large)
 
 ## Disclaimer
 ProjBobcat is not affiliated with Mojang or any part of its software.
